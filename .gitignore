@@ -1,0 +1,3 @@
+target/*
+!target/jira-cron-service-1.0.jar
+!target/jira-cron-service-1.0-tests.jar
